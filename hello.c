@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-    printf("hello£¬world");
+    printf("hello world,werqr");
     return 0;
 }
 int mu(){
